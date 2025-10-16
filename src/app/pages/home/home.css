@@ -1,0 +1,13 @@
+ .home-container {
+	 display: flex;
+	 flex-direction: column;
+	 gap: 24px;
+	 padding: 24px;
+ }
+ 
+ .actions-bar {
+	 display: flex;
+	 align-items: center;
+	 gap: 16px;
+	 flex-wrap: wrap;
+ }

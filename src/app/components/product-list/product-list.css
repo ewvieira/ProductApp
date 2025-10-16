@@ -1,0 +1,14 @@
+.product-list-container {
+	width: 100%;
+	overflow-x: auto;
+	margin-top: 16px;
+}
+
+table {
+	width: 100%;
+	min-width: 600px;
+}
+
+th.mat-header-cell, td.mat-cell {
+	text-align: left;
+}
