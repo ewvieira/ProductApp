@@ -2,6 +2,7 @@
 # ProductApp
 
 ProductApp é uma aplicação Angular para gerenciamento de produtos, permitindo cadastro, edição, exclusão e visualização de itens de forma simples e eficiente.
+Este app simples foi criado como teste técnico para vaga de emprego.
 
 Este projeto foi gerado usando o [Angular CLI](https://github.com/angular/angular-cli) versão 20.3.5.
 
